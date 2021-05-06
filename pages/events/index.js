@@ -1,5 +1,6 @@
+import Layout from '../../components/Layout';
 const EventsPage = () => {
-  return <div>Enter</div>;
+  return <Layout>Events</Layout>;
 };
 
 export default EventsPage;
